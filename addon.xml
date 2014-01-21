@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="helloworld" version="0.0.1" name="Hello World" provider-name="mikesalmonuk">
+<addon id="helloworld" version="0.0.2" name="Hello World" provider-name="mikesalmonuk">
 	<requires></requires>
 	<extension point="xbmc.python.pluginsource" library="helloworld.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Hello World</summary>
+		<summary>Hello World 2</summary>
 		<description>Simple program to say hello.</description>
 		<platform>all</platform>
 	</extension>
